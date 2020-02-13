@@ -1,0 +1,13 @@
+name: IrisTest
+title: IrisTest
+username:
+account: ivankacaron01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1801803
+bundleId: 2796054
+url: https://ivankacaron01.shinyapps.io/IrisTest/
+when: 1581539419.32583
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
